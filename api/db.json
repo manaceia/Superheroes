@@ -1,0 +1,297 @@
+{
+  "superheroes": [
+    {
+      "id": "1",
+      "name": "A-Bomb",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/10060.jpg",
+      "powerstats": {
+        "intelligence": "38",
+        "strength": "100",
+        "speed": "17",
+        "durability": "80",
+        "power": "24",
+        "combat": "64"
+      },
+      "publisherId": "1",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": "2",
+      "name": "Abe Sapien",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/956.jpg",
+      "powerstats": {
+        "intelligence": "88",
+        "strength": "28",
+        "speed": "35",
+        "durability": "65",
+        "power": "100",
+        "combat": "85"
+      },
+      "publisherId": "3",
+      "publisher": "Dark Horse Comics"
+    },
+    {
+      "id": "3",
+      "name": "Abin Sur",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/1460.jpg",
+      "powerstats": {
+        "intelligence": 50,
+        "strength": 90,
+        "speed": 53,
+        "durability": 64,
+        "power": 99,
+        "combat": 65
+      },
+      "publisherId": "3",
+      "publisher": "Dark Horse Comics"
+    },
+    {
+      "id": "4",
+      "name": "Abomination",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/1.jpg",
+      "powerstats": {
+        "intelligence": "63",
+        "strength": "80",
+        "speed": "53",
+        "durability": "90",
+        "power": "62",
+        "combat": "95"
+      },
+      "publisherId": "1",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": "5",
+      "name": "Abraxas",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/181.jpg",
+      "powerstats": {
+        "intelligence": "88",
+        "strength": "63",
+        "speed": "83",
+        "durability": "100",
+        "power": "100",
+        "combat": "55"
+      },
+      "publisherId": "1",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": "6",
+      "name": "Absorbing Man",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/1448.jpg",
+      "powerstats": {
+        "intelligence": "38",
+        "strength": "80",
+        "speed": "25",
+        "durability": "100",
+        "power": "98",
+        "combat": "64"
+      },
+      "publisherId": "1",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": "7",
+      "name": "Adam Monroe",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/1026.jpg",
+      "powerstats": {
+        "intelligence": "63",
+        "strength": "10",
+        "speed": "12",
+        "durability": "100",
+        "power": "100",
+        "combat": "64"
+      },
+      "publisherId": "4",
+      "publisher": "NBC - Heroes"
+    },
+    {
+      "id": "8",
+      "name": "Adam Strange",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/626.jpg",
+      "powerstats": {
+        "intelligence": "69",
+        "strength": "10",
+        "speed": "33",
+        "durability": "40",
+        "power": "37",
+        "combat": "50"
+      },
+      "publisherId": "2",
+      "publisher": "DC Comics"
+    },
+    {
+      "id": "9",
+      "name": "Agent 13",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/167.jpg",
+      "powerstats": {
+        "intelligence": "null",
+        "strength": "46",
+        "speed": "null",
+        "durability": "null",
+        "power": "null",
+        "combat": "null"
+      },
+      "publisherId": "1",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": "10",
+      "name": "Agent Bob",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/10255.jpg",
+      "powerstats": {
+        "intelligence": "10",
+        "strength": "8",
+        "speed": "13",
+        "durability": "5",
+        "power": "5",
+        "combat": "20"
+      },
+      "publisherId": "1",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": "11",
+      "name": "Agent Zero",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/396.jpg",
+      "powerstats": {
+        "intelligence": "75",
+        "strength": "28",
+        "speed": "38",
+        "durability": "80",
+        "power": "72",
+        "combat": "95"
+      },
+      "publisherId": "1",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": "12",
+      "name": "Air-Walker",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/1358.jpg",
+      "powerstats": {
+        "intelligence": "50",
+        "strength": "85",
+        "speed": "100",
+        "durability": "85",
+        "power": "100",
+        "combat": "40"
+      },
+      "publisherId": "1",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": "13",
+      "name": "Ajax",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/10422.jpg",
+      "powerstats": {
+        "intelligence": "56",
+        "strength": "48",
+        "speed": "35",
+        "durability": "80",
+        "power": "34",
+        "combat": "55"
+      },
+      "publisherId": "1",
+      "publisher": "Marvel Comics"
+    },
+    {
+      "id": "14",
+      "name": "Alan Scott",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/698.jpg",
+      "powerstats": {
+        "intelligence": "63",
+        "strength": "80",
+        "speed": "23",
+        "durability": "90",
+        "power": "100",
+        "combat": "32"
+      },
+      "publisherId": "2",
+      "publisher": "DC Comics"
+    },
+    {
+      "id": "15",
+      "name": "Alex Mercer",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/10398.jpg",
+      "powerstats": {
+        "intelligence": "50",
+        "strength": "80",
+        "speed": "42",
+        "durability": "90",
+        "power": "100",
+        "combat": "50"
+      },
+      "publisherId": "5",
+      "publisher": "Wildstorm"
+    },
+    {
+      "name": "Atom",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/934.jpg",
+      "powerstats": {
+        "intelligence": "87",
+        "strength": "95",
+        "speed": "92",
+        "durability": "67",
+        "power": "82",
+        "combat": "80"
+      },
+      "publisherId": "2",
+      "publisher": "DC Comics",
+      "id": "NEe0nOr"
+    },
+    {
+      "name": "Alex Woolsly",
+      "image": "https://www.superherodb.com/pictures2/portraits/10/100/1309.jpg",
+      "powerstats": {
+        "intelligence": "60",
+        "strength": "89",
+        "speed": "73",
+        "durability": "82",
+        "power": "72",
+        "combat": "82"
+      },
+      "publisherId": "4",
+      "publisher": "NBC - Heroes",
+      "id": "Y9Gz289"
+    }
+  ],
+  "publishers": [
+    {
+      "id": "1",
+      "name": "Marvel Comics",
+      "description": "Marvel Comics is an American comic book publisher and the flagship property of Marvel Entertainment, a division of The Walt Disney Company since September 1, 2009. Evolving from Timely Comics in 1939, Magazine Management/Atlas Comics in 1951 and its predecessor, Marvel Mystery Comics, the Marvel Comics title/name/brand was first used in June 1961.",
+      "image": "https://seeklogo.com/images/M/marvel-comics-old-logo-87B4DB5E05-seeklogo.com.png"
+    },
+    {
+      "id": "2",
+      "name": "DC Comics",
+      "description": "DC Comics, Inc. (doing business as DC) is an American comic book publisher and the flagship unit of DC Entertainment, a subsidiary of Warner Bros. Discovery.DC Comics is one of the largest and oldest American comic book companies, with their first comic under the DC banner being published in 1937. The majority of its publications take place within the fictional DC Universe and feature numerous culturally iconic heroic characters, such as Superman, Batman, Wonder Woman, Flash, Aquaman, Green Lantern, and Cyborg; as well as famous fictional teams including the Justice League, the Justice Society of America, the Justice League Dark, the Doom Patrol, and the Teen Titans. The universe also features an assortment of well-known supervillains such as Lex Luthor, the Joker, the Cheetah, the Reverse-Flash, Black Manta, Sinestro, and Darkseid. The company has published non-DC Universe-related material, including Watchmen, V for Vendetta, Fables and many titles under their alternative imprint Vertigo and now DC Black Label",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg"
+    },
+    {
+      "id": "3",
+      "name": "Dark Horse Comics",
+      "description": "Dark Horse Comics is an American comic book, graphic novel, and manga publisher founded in Milwaukie, Oregon by Mike Richardson in 1986. The company was created using funds earned from Richardson's chain of Portland, Oregon comic book shops known as Pegasus Books and founded in 1980. Dark Horse Comics has emerged as the fourth largest comic publishing company in the United States of America. Dividing profits with artists and writers, as well as supporting artistic and creative rights in the comic book industry, Dark Horse Comics has become a strong proponent of publishing licensed material that often does not fit into mainstream media. Several titles include: Sin City, Hellboy, Buffy the Vampire Slayer, 300, and Star Wars.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Dark_Horse_Comics_logo.svg"
+    },
+    {
+      "id": "4",
+      "name": "NBC - Heroes",
+      "description": "The National Broadcasting Company (NBC) is an American English-language commercial broadcast television and radio network. NBC - Heroes is an American superhero drama television series created by Tim Kring that aired on NBC for four seasons from September 25, 2006, to February 8, 2010. The series tells the stories of ordinary people who discover that they have superhuman abilities and how these abilities take effect in the characters' lives as they work together to prevent catastrophic futures. The series emulates the aesthetic style and storytelling of American comic books, using multi-episode story arcs that build upon a larger, more encompassing narrative.[1] It was produced by Tailwind Productions in association with Universal Media Studios",
+      "image": "https://townsquare.media/site/442/files/2014/02/Heroes-Reborn-NBC.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Wildstorm",
+      "description": "Wildstorm Productions, (stylized as WildStorm), is an American comic book imprint. Originally founded as an independent company established by Jim Lee under the name Aegis Entertainment and expanded in subsequent years by other creators, Wildstorm became a publishing imprint of DC Comics in 1999. Until it was shut down in 2010, the Wildstorm imprint remained editorially separate from DC Comics, with its main studio located in California. The imprint took its name from a portmanteau of the titles of the Jim Lee comic series WildC.A.T.S. and Stormwatch.",
+      "image": "https://4.bp.blogspot.com/_hrZhQaVVsvA/TJkWHJhshSI/AAAAAAAAA4g/KCBREzdy_3Y/s1600/wildstorm-logo.jpg"
+    },
+    {
+      "name": "Justice League",
+      "image": "asfasfdsafsafsda",
+      "description": "asfsdsfddddddddddfasfasd",
+      "id": "V7mqCBO"
+    }
+  ]
+}

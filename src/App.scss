@@ -1,0 +1,55 @@
+#hero {
+  background: url('../public/header_bg_image.jpg') rgba($color: #000000, $alpha: 0.9);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+#menu {
+  background: url('../public/superheroes_bg_image.jpg') rgba($color: #000000, $alpha: 0.96);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+@media(max-width: 576px) {
+  #hero {
+    background-image: url(../public/header_bg_image.jpg);
+    background-position: center;
+  }
+}
+
+#home {
+  background: url('../public/home_bg_image.jpg') rgba($color: #000000, $alpha: 0.8);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+#superheroes {
+  background: url('../public/superheroes_bg_image.jpg') rgba($color: #000000, $alpha: 0.8);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+#publishers {
+  background: url('../public/publishers_bg_image.jpg') rgba($color: #000000, $alpha: 0.8);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+#formComponent {
+  background: url('../public/superheroes_bg_image.jpg') rgba($color: #000000, $alpha: 0.88);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+#singleSuperhero {
+  background: url('../public/superheroes_bg_image.jpg') rgba($color: #000000, $alpha: 0.88);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
