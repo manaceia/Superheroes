@@ -1,5 +1,5 @@
 {
-  "homepage": "http://manaceia.github.io/Superheroes",
+  "homepage": "http://manaceia.github.io/superheroes",
   "name": "jelena",
   "proxy": "http://localhost:5000",
   "version": "0.1.0",
